@@ -4,4 +4,4 @@ to pull the changes to the main branch. This will allow Mr. Lamont to see you
 have figured out of to use GitHub  :)
 
 Name: Caius Branda
-Course Code: ICS4UI
+Course Code: ICS 4UI
